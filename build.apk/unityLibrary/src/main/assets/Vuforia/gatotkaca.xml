@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="gatotkaca" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="gatotkacas_assembly" assemblyId="36db6a85c3a040ed9c8c4e7a9c792a43">
+<Part name="gatotkaca" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00649468 0.658719 4.39411" rotation="AD: 0.43342777727678994 2.700908781771692 -0.9697686260981371 173.861" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
